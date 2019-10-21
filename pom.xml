@@ -8,5 +8,18 @@
     <artifactId>Spark1903</artifactId>
     <version>0.1-SNAPSHOT</version>
 
+    <properties>
+        <scala.version>2.11.8</scala.version>
+        <scala.version.simple>2.11</scala.version.simple>
+        <spark.version>2.4.3</spark.version>
+    </properties>
 
+    <dependencies>
+        <!-- scala -->
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>${scala.version}</version>
+        </dependency>
+    </dependencies>
 </project>
