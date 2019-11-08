@@ -1,0 +1,7 @@
+uid date url
+1 2019-08-06 http://www.baidu.com
+2 2019-08-06 http://www.baidu.com
+3 2019-08-06 http://www.baidu.com
+3 2019-08-06 http://www.soho.com
+3 2019-08-06 http://www.meituan.com
+3 2019-08-06
